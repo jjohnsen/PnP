@@ -361,6 +361,9 @@
       <CachedSettingsPropName>OfficeDevPnP_Core_UPAWebService_UserProfileService</CachedSettingsPropName>
     </WebReferenceUrl>
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="test.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <TFSBaseBuildYear>2014</TFSBaseBuildYear>
